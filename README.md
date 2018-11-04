@@ -339,7 +339,7 @@ event keystrokes (see QPTR Pointer Toolkit Documentation page 37).
 
 #### Pop-up box - selection routine
 
-result=BX_SELECT(info$,items$,pointer)
+    result=BX_SELECT(info$,items$,pointer)
 
 This routine pops-up a window with the information given in the
 one-dimensional info$ array and draws the possible choices given in
@@ -352,7 +352,7 @@ and the number of elements in info$.
 
 
 
-Pop-up box - string input routine
+#### Pop-up box - string input routine
 
     result$=BX_INPUT$(info$,default$,pointer)
 
