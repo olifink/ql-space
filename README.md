@@ -1,3 +1,8 @@
+---
+*Note* this library is for the Sinclair QL and compatible systems and was first
+released 18 June 1990 (exactly 30 years ago as I'm writing this). Enjoy!
+---
+
 # The Idea of a Standard Application Manager
 
  QJumps Extended Environment (EE) brought a new concept of programs and handling
